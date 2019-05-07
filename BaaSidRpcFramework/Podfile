@@ -1,0 +1,5 @@
+target "BaasidRpcFramework" do
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '10.14.4'
+pod 'AFNetworking', '~> 3.0'
+end
